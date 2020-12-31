@@ -53,7 +53,7 @@ const config = {
     instagram: 'https://instagram.com/VARGAS_250/', // INFO JANGAN DI UBAH
     nomer: 'wa.me/6281227560249', // INFO SU JNGAN DI UBAH
     youtube: 'https://youtube.com/channel/UCNUXc-wvktd1xmH9HLEpnWQ', // KINTIL
-    whatsapp: 'https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs', // BABI
+    whatsapp: 'https://chat.whatsapp.com/CWSgYJnbiFWFuQyY9VXDGb', // BABI
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
